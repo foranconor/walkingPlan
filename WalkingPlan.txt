@@ -1,0 +1,151 @@
+Walking Plan
+=============================
+
+*** Tekapo to Lake Ohau ***
+
+- Lake Ruataniwha - 0km, none -
+  start - 2023-03-31
+    Start at SH8 just past Lake Ruataniwha
+    Get dropped of in Twizel if any last minute supplies are needed, this adds 4.4km to the section
+    BZ15 - Twizel
+  
+- Lake Ohau - 16km, flat -
+  break - 2023-03-31
+    BZ15 - Twizel
+  
+- Lake Middleton Camping Ground - 10.2km, flat -
+  night - 2023-03-31
+    Stock up on water
+    DOC campground
+    BZ15 - Twizel,BZ14 - Mount Barth
+  
+- Lake Ohau - 3.2km, flat -
+  finishing track - 2023-04-01
+    BZ14 - Mount Barth
+  
+*** East Ahuriri Track ***
+
+- Where the track meets the east branch of the Ahuriri river - 10km, uphill -
+  break - 2023-04-01
+    Fill up water
+    Will loose cell coverage going forward
+    BZ14 - Mount Barth
+  
+- Ahuriri River Valley - 11.5km, downhill -
+  night - 2023-04-01
+    Camp near the last trees along the river's east branch
+    BZ14 - Mount Barth,CA14 - Lindis Pass
+  
+- Ahuriri River Crossing - 3.8km, flat -
+  finishing track - 2023-04-02
+    Large river crossing
+    Backup option, Ireland Road bridge, 5km downstream
+    Fill up water
+    Spend time after crossing to get dry and warm up
+    CA14 - Lindis Pass
+  
+*** Breast Hill Track ***
+
+- Halfway point to Top Timaru Hut - 11.4km, uphill -
+  break - 2023-04-02
+    Fill up water from nearby stream before the track veers away
+    Long day, mostly uphill
+    CA14 - Lindis Pass
+  
+- Top Timaru Hut - 11.4km, uphill -
+  night - 2023-04-02
+    If running behind schedule, option to stay at The Tin Hut 9.5km from Birchwood Rd
+    CA14 - Lindis Pass,CA13 - Lake Hawea
+  
+- Timaru River Junction - 12km, downhill -
+  break - 2023-04-03
+    Dump/consume excess water before the climb to Stodys Hut
+    Wuss out/behind option, follow the river down to Lake Hawea
+    CA13 - Lake Hawea
+  
+- Stodys Hut - 2.2km, steep -
+  night - 2023-04-03
+    Steepest climb, 22 degree incline
+    Dirt floor hut
+    Fill up water from nearby stream
+    CA13 - Lake Hawea
+  
+- Breast Hill Summit - 8km, uphill -
+  break - 2023-04-04
+    Check the views
+    Alternate route to the hut is available if weather is bad
+    All downhill from here
+    Should pick up cell coverage if Lake Hawea town is in view
+    CA13 - Lake Hawea
+  
+- Pakituhi Hut - 3.2km, flat -
+  night - 2023-04-04
+    Fill up water
+    CA13 - Lake Hawea
+  
+- Lake Hawea - 5.1km, downhill -
+  finishing track - 2023-04-05
+    CA13 - Lake Hawea
+  
+*** Gladstone to Wanaka ***
+
+- Hawea Hotel & Lodge - 7.7km, flat -
+  night - 2023-04-05
+    Shower, maybe a beer
+    Snacks for the next day
+    Booking number, 38515
+    CA13 - Lake Hawea
+  
+- Albert Town - 12km, flat -
+  break - 2023-04-06
+    CA13 - Lake Hawea,CA12 - Minaret Bay,CB12 - Cardrona
+  
+- Wanaka Backpackers Bothy - 12km, flat -
+  night - 2023-04-06
+    Should probably finish track at the marina for completion's sake
+    Booking number, 45764
+    CB12 - Cardrona,CA12 - Minaret Bay
+  
+
+
+Sections in order of distance:
+-----------------------------
+Lake Ohau - 16km flat
+Timaru River Junction - 12km downhill
+Albert Town - 12km flat
+Wanaka Backpackers Bothy - 12km flat
+Ahuriri River Valley - 11.5km downhill
+Halfway point to Top Timaru Hut - 11.4km uphill
+Top Timaru Hut - 11.4km uphill
+Lake Middleton Camping Ground - 10.2km flat
+Where the track meets the east branch of the Ahuriri river - 10km uphill
+Breast Hill Summit - 8km uphill
+Hawea Hotel & Lodge - 7.7km flat
+Lake Hawea - 5.1km downhill
+Ahuriri River Crossing - 3.8km flat
+Lake Ohau - 3.2km flat
+Pakituhi Hut - 3.2km flat
+Stodys Hut - 2.2km steep
+Lake Ruataniwha - 0km none
+
+
+Total distance for each date:
+-----------------------------
+
+2023-03-31 - 26.2km - Lake Ruataniwha -> Lake Middleton Camping Ground
+2023-04-01 - 24.7km - Lake Middleton Camping Ground -> Ahuriri River Valley
+2023-04-02 - 26.6km - Ahuriri River Valley -> Top Timaru Hut
+2023-04-03 - 14.2km - Top Timaru Hut -> Stodys Hut
+2023-04-04 - 11.2km - Stodys Hut -> Pakituhi Hut
+2023-04-05 - 12.8km - Pakituhi Hut -> Hawea Hotel & Lodge
+2023-04-06 - 24km - Hawea Hotel & Lodge -> Albert Town
+
+
+Unique Maps used:
+-----------------------------
+BZ15 - Twizel
+BZ14 - Mount Barth
+CA14 - Lindis Pass
+CA13 - Lake Hawea
+CA12 - Minaret Bay
+CB12 - Cardrona
